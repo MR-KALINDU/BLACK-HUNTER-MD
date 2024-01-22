@@ -43,7 +43,7 @@ module.exports = {
   ALIVE_MESSAGE: process.env.ALIVE_MESSAGE || '',
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || 'put-key-here',
   VERSION: process.env.VERSION === undefined ? 'v.5.0.0' : process.env.VERSION,
-  LANG: process.env.THEME|| 'PRABATH-MD',
+  LANG: process.env.THEME|| 'BLACK-HUNTER-MD',
   WORKTYPE: process.env.WORK_TYPE === undefined ? 'public' : process.env.WORK_TYPE
 };
 
