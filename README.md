@@ -1,1 +1,1 @@
-# BLACK-HUNTER-MD
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/mR-KALINDU/BLACK-HUNTER-MD&template=https://github.com/MR-KALINDU/BLACK-HUNTER-MD.git)
